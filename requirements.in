@@ -1,0 +1,11 @@
+blinker            
+click              
+Flask              
+importlib_metadata 
+itsdangerous       
+Jinja2             
+MarkupSafe         
+pip                
+setuptools         
+Werkzeug           
+zipp               
